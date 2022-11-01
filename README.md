@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kavi Kumar 
-- 👀 I’m interested in java developer
+- 👀 I’m interested in java programming
 - 🌱 I’m currently learning Microservices using spring boot
 - 💞️ I’m looking to collaborate on java developer
 - 📫 How to reach me --> kavikumar18102000@gmail.com
