@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on spring boot microservices<br>👯 I’m looking to collaborate on java development<br>🌱 I’m currently learning microservices<br>💬 Ask me about java <br>⚡ Fun fact - I am a lazy bugg....
+🔭 I’m currently working on spring boot microservices<br>👯 I’m looking to collaborate on java development<br>🌱 I’m currently learning microservices<br>💬 Ask me about java <br>
 
 
 ## 🌐 Socials:
